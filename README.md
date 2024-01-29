@@ -9,6 +9,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thomas141203&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 [![](https://visitcount.itsvg.in/api?id=Thomas141203&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
